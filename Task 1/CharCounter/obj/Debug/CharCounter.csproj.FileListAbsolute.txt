@@ -1,0 +1,7 @@
+D:\Projects\repos\CharCounter\CharCounter\bin\Debug\CharCounter.exe.config
+D:\Projects\repos\CharCounter\CharCounter\bin\Debug\CharCounter.exe
+D:\Projects\repos\CharCounter\CharCounter\bin\Debug\CharCounter.pdb
+D:\Projects\repos\CharCounter\CharCounter\obj\Debug\CharCounter.csprojAssemblyReference.cache
+D:\Projects\repos\CharCounter\CharCounter\obj\Debug\CharCounter.csproj.CoreCompileInputs.cache
+D:\Projects\repos\CharCounter\CharCounter\obj\Debug\CharCounter.exe
+D:\Projects\repos\CharCounter\CharCounter\obj\Debug\CharCounter.pdb
